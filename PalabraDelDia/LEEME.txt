@@ -1,0 +1,36 @@
+PALABRA DEL DIA - App para pantalla de bloqueo
+================================================
+
+Esta app pone cada dia una palabra con su definicion como
+fondo de la pantalla de bloqueo, dentro de un marco dorado.
+
+COMO CONSEGUIR EL APK (sin instalar nada en tu ordenador):
+
+1. Entra en github.com y crea una cuenta gratis (si no tienes).
+2. Arriba a la derecha, boton "+" > "New repository".
+3. Ponle un nombre (ej: palabra-del-dia). Dejalo PUBLICO. Crear.
+4. En la pagina del repositorio vacio, pulsa el enlace
+   "uploading an existing file".
+5. Arrastra TODO el contenido de esta carpeta (todos los
+   archivos y carpetas) a la ventana del navegador.
+   IMPORTANTE: arrastra el CONTENIDO, no la carpeta que lo envuelve.
+6. Abajo, pulsa "Commit changes".
+7. Ve a la pestana "Actions" (arriba). Veras que empieza a
+   compilar solo. Espera unos 3-5 minutos hasta el tic verde.
+8. Entra en esa ejecucion. Abajo, seccion "Artifacts",
+   descarga "PalabraDelDia-APK". Es un ZIP con el app-debug.apk.
+9. Pasa el app-debug.apk a tu movil e instalalo.
+
+UNA VEZ INSTALADA:
+- Abre la app. Ya trae 15 insultos antiguos de prueba.
+- Pulsa "Aplicar en pantalla de bloqueo" y bloquea el movil
+  para comprobar que funciona.
+- "Gestionar categorias": crea/activa/desactiva categorias.
+- "Gestionar palabras": anade tus propias palabras.
+
+IMPORTANTE EN XIAOMI (para que cambie sola cada dia):
+- Ajustes > Aplicaciones > Palabra del dia > Ahorro de bateria
+  > Sin restricciones.
+- Ajustes > Aplicaciones > Palabra del dia > Inicio automatico:
+  activar.
+Aun asi, cada vez que ABRAS la app se refresca por si acaso.
